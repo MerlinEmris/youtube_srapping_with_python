@@ -9,7 +9,7 @@
 
   <h3 align="center"> Youtube Srapping With Python (Selenium)</h3>
 
-  <p align="center">
+  <!-- <p align="center">
     project_description
     <br />
     <a href="https://github.com/MerlinEmris/youtube_srapping_with_python"><strong>Explore the docs »</strong></a>
@@ -20,10 +20,11 @@
     <a href="https://github.com/MerlinEmris/youtube_srapping_with_python/issues">Report Bug</a>
     ·
     <a href="https://github.com/MerlinEmris/youtube_srapping_with_python/issues">Request Feature</a>
-  </p>
+  </p> -->
 </p>
 
 <!-- TABLE OF CONTENTS -->
+
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
@@ -54,26 +55,25 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-`merlinemris`, `youtube_srapping_with_python`, `@merlinemris96`, `merdanchariyarov@gmail.com`, `mescrap`, `Youtube video data scrapper`
+<!-- `merlinemris`, `youtube_srapping_with_python`, `@merlinemris96`, `merdanchariyarov@gmail.com`, `mescrap`, `Youtube video data scrapper` -->
 
 ### Built With
 
-- []()
-- []()
-- []()
-
+- [python3]()
+- [selenium]()
 <!-- GETTING STARTED -->
 
 ## Getting Started
 
 ### Installation
 
-1. To use this package first install it:
-   [pypi](https://test.pypi.org/project/mescrap/0.0.1/)
+1. To use this package first install it: [package](https://test.pypi.org/project/mescrapper)
 
-`pip install mesrap` 2. import srapper to your project
+`pip install mesrapper`
 
-`from mesrap.srappy import scrapper`
+2. import srapper to your project
+
+`from mesrapper.srappy import scrapper`
 `scrapper.youtube_video_data_scrapper(url='', driver='')`
 
 ## Usage
@@ -86,6 +86,7 @@ You can use this package to scrap youtube video's:
 4. like
 5. dislike
 6. post date
+7. owner
 
 <!-- ROADMAP -->
 
@@ -114,6 +115,3 @@ Project Link: [https://github.com/MerlinEmris/youtube_srapping_with_python](http
 ## Acknowledgements
 
 - [https://towardsdatascience.com/how-to-package-your-python-code-df5a7739ab2e](https://towardsdatascience.com/how-to-package-your-python-code-df5a7739ab2e)
-- []()
-- []()
-  > > > > > > > 423a62d8239baa1ce3d22bc0fc07ca9a937f0bc2
