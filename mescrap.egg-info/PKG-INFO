@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: mescrap
+Version: 0.0.1
+Summary: python selenium youtube scrapper
+Home-page: https://github.com/MerlinEmris/youtube_srapping_with_python
+Author: Merdan Chariyarov
+Author-email: merdanchariyarov@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENCE
+
+# Python + Selenium **Youtube** scrapper
+
+

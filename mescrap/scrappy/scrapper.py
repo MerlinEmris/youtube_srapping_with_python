@@ -39,8 +39,5 @@ def youtube_video_data_scrapper(url: str, driver: str) -> dict:
         'like': like,
         'dislike': dislike
     }
-    print(data)
     driver.close()
     return data
-
-

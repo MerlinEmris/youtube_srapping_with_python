@@ -1,5 +1,9 @@
 import unittest
 from .scrapper import youtube_video_data_scrapper
+from mescrap.scrappy import scrapper
+
+
+scrapper.youtube_video_data_scrapper
 
 
 class TestScrapper(unittest.TestCase):

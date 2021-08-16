@@ -1,0 +1,9 @@
+LICENCE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+mescrap.egg-info/PKG-INFO
+mescrap.egg-info/SOURCES.txt
+mescrap.egg-info/dependency_links.txt
+mescrap.egg-info/top_level.txt
