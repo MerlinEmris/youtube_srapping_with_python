@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/MerlinEmris/youtube_srapping_with_python">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -12,14 +12,14 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/MerlinEmris/youtube_srapping_with_python"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/MerlinEmris/youtube_srapping_with_python">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/MerlinEmris/youtube_srapping_with_python/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/MerlinEmris/youtube_srapping_with_python/issues">Request Feature</a>
   </p>
 </p>
 
@@ -36,7 +36,6 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -53,11 +52,9 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+`merlinemris`, `youtube_srapping_with_python`, `@merlinemris96`, `merdanchariyarov@gmail.com`, `mescrap`, `Youtube video data scrapper`
 
 ### Built With
 
@@ -69,53 +66,34 @@ Here's a blank template to get started:
 
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-
-- npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
 ### Installation
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
+1. To use this package first install it:
+   [pypi](https://test.pypi.org/project/mescrap/0.0.1/)
 
-<!-- USAGE EXAMPLES -->
+`pip install mesrap` 2. import srapper to your project
+
+`from mesrap.srappy import scrapper`
+`scrapper.youtube_video_data_scrapper(url='', driver='')`
 
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+You can use this package to scrap youtube video's:
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+1. title
+2. view count
+3. description
+4. like
+5. dislike
+6. post date
 
 <!-- ROADMAP -->
 
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/MerlinEmris/youtube_srapping_with_python/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
-
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 <!-- LICENSE -->
 
