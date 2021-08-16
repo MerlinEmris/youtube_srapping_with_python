@@ -1,4 +1,4 @@
-# mescrappy - Python + Selenium **Youtube** scrapper
+# mescrappy - Python + Selenium **Youtube** scraper
 
 <!-- PROJECT LOGO -->
 <br />
@@ -7,7 +7,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center"> Youtube Srapping With Python (Selenium)</h3>
+  <h3 align="center"> Youtube Sraping With Python (Selenium)</h3>
 
   <!-- <p align="center">
     project_description
@@ -71,7 +71,7 @@
 
 `pip install mescrappy`
 
-2. import srapper to your project
+2. import sraper to your project
 
 `from mescrappy.srappy import scrapper`
 `scrapper.youtube_video_data_scrapper(url='', driver='')`
