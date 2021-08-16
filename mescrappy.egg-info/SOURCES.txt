@@ -1,0 +1,9 @@
+LICENCE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+mescrappy.egg-info/PKG-INFO
+mescrappy.egg-info/SOURCES.txt
+mescrappy.egg-info/dependency_links.txt
+mescrappy.egg-info/top_level.txt

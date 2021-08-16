@@ -1,4 +1,4 @@
-# mescrap - Python + Selenium **Youtube** scrapper
+# mescrappy - Python + Selenium **Youtube** scrapper
 
 <!-- PROJECT LOGO -->
 <br />
@@ -42,7 +42,7 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#test">Test</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
@@ -67,13 +67,13 @@
 
 ### Installation
 
-1. To use this package first install it: [package](https://test.pypi.org/project/mescrapper)
+1. To use this package first install it: [package](https://test.pypi.org/project/mescrappy)
 
-`pip install mesrapper`
+`pip install mescrappy`
 
 2. import srapper to your project
 
-`from mesrapper.srappy import scrapper`
+`from mescrappy.srappy import scrapper`
 `scrapper.youtube_video_data_scrapper(url='', driver='')`
 
 ## Usage
@@ -94,7 +94,13 @@ You can use this package to scrap youtube video's:
 
 See the [open issues](https://github.com/MerlinEmris/youtube_srapping_with_python/issues) for a list of proposed features (and known issues).
 
-<!-- CONTRIBUTING -->
+<!-- Test -->
+
+## Test
+
+for testing :
+
+`python mescrappy\test.py`
 
 <!-- LICENSE -->
 

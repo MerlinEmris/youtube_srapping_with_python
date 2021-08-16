@@ -1,9 +1,5 @@
 import unittest
-from .scrapper import youtube_video_data_scrapper
-from mescrap.scrappy import scrapper
-
-
-scrapper.youtube_video_data_scrapper
+from scrappy.scrapper import youtube_video_data_scrapper
 
 
 class TestScrapper(unittest.TestCase):
@@ -12,3 +8,7 @@ class TestScrapper(unittest.TestCase):
         driver = r"C:\Users\ME\projects\for_github\chromedriver_win32\chromedriver.exe"
         self.assertAlmostEqual(
             youtube_video_data_scrapper(url=url, driver=driver), {})
+
+
+if __name__ == '__main__':
+    unittest.main()

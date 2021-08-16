@@ -1,12 +1,12 @@
 Metadata-Version: 2.1
-Name: mescrap
-Version: 0.1.0
+Name: mescrappy
+Version: 1.0.0
 Summary: python selenium youtube scrapper
 Home-page: https://github.com/MerlinEmris/youtube_srapping_with_python
 Author: Merdan Chariyarov
 Author-email: merdanchariyarov@gmail.com
-License: UNKNOWN
-Platform: UNKNOWN
+License: MIT
+Platform: Independent
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
@@ -14,7 +14,7 @@ Requires-Python: >=3.7
 Description-Content-Type: text/markdown
 License-File: LICENCE
 
-# mescrap - Python + Selenium **Youtube** scrapper
+# mescrappy - Python + Selenium **Youtube** scrapper
 
 <!-- PROJECT LOGO -->
 <br />
@@ -83,13 +83,13 @@ License-File: LICENCE
 
 ### Installation
 
-1. To use this package first install it: [package](https://test.pypi.org/project/mescrap)
+1. To use this package first install it: [package](https://test.pypi.org/project/mescrappy)
 
-`pip install mesrap`
+`pip install mescrappy`
 
 2. import srapper to your project
 
-`from mesrap.srappy import scrapper`
+`from mescrappy.srappy import scrapper`
 `scrapper.youtube_video_data_scrapper(url='', driver='')`
 
 ## Usage
