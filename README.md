@@ -127,15 +127,15 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Merdan Chariyarov - [@merlinemris96](https://twitter.com/merlinemris96) - merdanchariyarov@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/MerlinEmris/youtube_srapping_with_python](https://github.com/MerlinEmris/youtube_srapping_with_python)
 
 <!-- ACKNOWLEDGEMENTS -->
 
 ## Acknowledgements
 
-- []()
+- [https://towardsdatascience.com/how-to-package-your-python-code-df5a7739ab2e](https://towardsdatascience.com/how-to-package-your-python-code-df5a7739ab2e)
 - []()
 - []()
   > > > > > > > 423a62d8239baa1ce3d22bc0fc07ca9a937f0bc2
