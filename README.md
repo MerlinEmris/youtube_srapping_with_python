@@ -76,6 +76,12 @@
 `from mescrappy.srappy import scrapper`
 `scrapper.youtube_video_data_scrapper(url='', driver='')`
 
+You can also run it directly using terminal:
+
+`python mescrappy "https://www.youtube.com/watch?v=rMO7APyBiMI" "C:\Users\ME\projects\for_github\chromedriver_win32\chromedriver.exe"`
+
+1'st argument is video url and 2'nd argument is browser driver location
+
 ## Usage
 
 You can use this package to scrap youtube video's:
