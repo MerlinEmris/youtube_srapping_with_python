@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/MerlinEmris/youtube_srapping_with_python">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/MerlinEmris/youtube_srapping_with_python/blob/master/Annotation%202021-08-17%20204528.png" alt="image" width="100vw">
   </a>
 
   <h3 align="center"> Youtube Sraping With Python (Selenium)</h3>
