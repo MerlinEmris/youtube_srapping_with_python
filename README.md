@@ -59,8 +59,9 @@
 
 ### Built With
 
-- [python3]()
-- [selenium]()
+- [python3](https://www.python.org/)
+- [selenium](https://selenium-python.readthedocs.io/)
+- [chrome driver](https://chromedriver.chromium.org/downloads)
 <!-- GETTING STARTED -->
 
 ## Getting Started
